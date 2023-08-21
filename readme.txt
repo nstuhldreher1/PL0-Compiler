@@ -1,6 +1,4 @@
 /*=============================================================================
-| Assignment: HW4 Compiler
-|
 | Author: Nicholas Stuhldreher and Josh Gumprecht
 |
 | To Compile: gcc driver.c lex.c parser.c vm.c -lm
